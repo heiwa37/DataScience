@@ -1,0 +1,24 @@
+1 Data Gathering
+	web scraping
+	3rd party API
+	Big Data Engg
+2. Feature engg
+	handle missing value(NAN)
+	handle imbalances
+	remove noise
+	format the DAtA in proper way(fields, features)
+	CLEAN the data 
+	Normalisation
+	handle category features
+	export in csv after all
+3. Feature Selection
+	Pearson Correlation
+	Heat map
+	Extra tree classifier- to find out which features are important
+4 Create Model Creation
+	Select right model- suitable
+5 Test the model
+	Accuracy- great - move to production Deployment
+	accuracy- no -- go for data gathering (1) or (2)
+6 Model Deployment
+	done using AWS , azure,flask- 

@@ -1,0 +1,9 @@
+STEPS OF DS WORK
+
+1.Data collection
+2.Data Preparation
+3.EDA
+4.Evaluating & Interpret EDA Results
+5.Model Building, Model Testing
+6.Model Deployment
+7.Model Optimisation
